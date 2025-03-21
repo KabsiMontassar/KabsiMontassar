@@ -1,6 +1,4 @@
-# 💫 About Me:
-Hi, I’m Kebsi Montassar! I'm currently a student at ESPRIT, <br>studying Computer Science with a focus on Cloud & DevOps. <br>Alongside my studies, I’m building my expertise as a Full Stack Developer, <br>learning about CI/CD pipelines, automation tools, <br>and container orchestration using Docker and Kubernetes.
-
+# 💫 Aspiring Full Stack Developer | UI/UX & AI Innovator | Secure, Scalable Solutions | CI/CD Enthusiast | Ready for New Challenges 🚀:
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kabsimontassar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/montassarkabsi) 
