@@ -1,5 +1,5 @@
 # 💫 Hi, I’m Kebsi Montassar!
-Aspiring Full Stack Developer | UI/UX & AI Innovator | Secure, Scalable Solutions | CI/CD Enthusiast | Ready for New Challenges 🚀
+Full Stack Engineer | Specializing in AI & Cloud-Native Development | Building Secure & Scalable Systems with CI/CD | Open to Opportunities 🚀
 
 
 ## 🌐 Socials:
